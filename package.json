@@ -18,11 +18,14 @@
   },
   "homepage": "https://github.com/lukaarma/SaveYourSpot-frontend#readme",
   "dependencies": {
+    "bulma": "^0.9.1",
     "core-js": "^3.6.5",
     "vue": "^3.0.0-0",
-    "vue-router": "^4.0.0-0"
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-beta.4"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
     "@typescript-eslint/eslint-plugin": "^2.33.0",
     "@typescript-eslint/parser": "^2.33.0",
     "@vue/cli-plugin-babel": "~4.5.0",
