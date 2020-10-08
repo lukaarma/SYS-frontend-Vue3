@@ -1,3 +1,9 @@
 @charset "utf-8";
 
 @import "../../node_modules/bulma/bulma.sass";
+
+
+.click-icon {
+    pointer-events: all !important;
+    cursor: pointer;
+}

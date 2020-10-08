@@ -10129,4 +10129,9 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   padding: 3rem 1.5rem 6rem;
 }
 
+.click-icon {
+  pointer-events: all !important;
+  cursor: pointer;
+}
+
 /*# sourceMappingURL=style.css.map */
