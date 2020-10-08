@@ -1,5 +1,5 @@
 <template>
-  <div class="home">>
-    <h1>Welcome to Your Vue.js App</h1>
-  </div>
+    <div class="container is-fullheight">
+        <h1 class="is-centered is-4"> Save Your Spot </h1>
+    </div>
 </template>
